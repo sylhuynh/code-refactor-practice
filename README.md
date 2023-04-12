@@ -1,9 +1,10 @@
 # Code Refactor
 
 ## Description
-Web accessibility is an increasingly imporant consideration to ensure that people with disabilities or socio-economic restrictions have access to the website without any barriers. To be considered accessible, these resources must enable people to effectively perceive, understand, navigate and interact with the web. 
+Code refactoring is the process of restructuring existing code to improve its design and implementation, while maintaining its original functionality. Therefore, the minor adjustments made to the codebase was intended to **improve accessibility**. 
 
-> Code refactoring is the process of restructuring existing code to improve its design and implementation, while maintaining its original functionality. Therefore, the minor adjustments made to the codebase was intended to **improve accessibility**. 
+> Web accessibility is an increasingly imporant consideration to ensure that people with disabilities or socio-economic restrictions have access to the website without any barriers. To be considered accessible, these resources must enable people to effectively perceive, understand, navigate and interact with the web. 
+
 
 ## Questions
 
